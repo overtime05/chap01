@@ -1,4 +1,4 @@
 *.pw
-*class
+*.class
 *.swp
 *.sop
